@@ -1,8 +1,12 @@
 - 👋 Opa, eu sou o @LeoClink77 'Frostizin'
-<!---
-LeoClink77/LeoClink77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Atualmente estou aprendendo PY,JS,PR
+- 💬 Pergunte-me sobre HTML,CSS,PS,AI
+- 📫 Como entrar em contato comigo: Frostzin #4595
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: N sou só programador, bó joga. Alem disso estou no caminho de ser Designer grafico
+
+##
+
 <div>
 <a href="https://github.com/LeoClink77">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&layout=compact&langs_count=7&theme=dracula"/>
@@ -30,3 +34,7 @@ You can click the Preview link to take a look at your changes.
 ##
 
 
+<!---
+LeoClink77/LeoClink77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
