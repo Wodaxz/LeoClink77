@@ -9,4 +9,4 @@
 - 💬 Pergunte-me sobre Photoshop, Adobe Illustrator, Discord, HTML, CSS
 - 📫 Como entrar em contato comigo: No fim desse READ.ME, estará as formas de como se contatar comigo 
 - 😄 Pronomes: Ele / Dele
-- ⚡ Curiosidade: Nasci em Sp capital, tneho 14y
+- ⚡ Curiosidade: Nasci em Sp capital, tenho 14 anos 
