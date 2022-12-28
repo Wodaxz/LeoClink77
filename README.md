@@ -1,13 +1,13 @@
-- 👋 Opa, eu sou o @LeoClink77
+- 👋 Opa, eu sou o @LeoClink77 'Frostizin'
 <!---
 LeoClink77/LeoClink77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 🌱 Atualmente estou aprendendo PY,JS,PR
-- 💬 Pergunte-me sobre HTML,CSS,PS,AI
-- 📫 Como entrar em contato comigo: Frostzin #4595
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: N sou só programador, bó joga. Alem disso estou no caminho de ser Designer grafico
+<div>
+<a href="https://github.com/LeoClink77">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Ferramentas e Tecnologias
 
@@ -17,9 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40"/>
           
-          
-          
 
+          
 ## Contatos:
 
 <div>
@@ -30,8 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<div>
-<a href="https://github.com/LeoClink77">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
