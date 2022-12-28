@@ -1,6 +1,12 @@
-<h1>Leonardo alves<h1/>
-  - 🌱 Atualmente estou aprendendo PY,JS,PR
-- 💬 Pergunte-me sobre HTML,CSS,PS,AI
-- 📫 Como entrar em contato comigo: Frostzin #4595
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: N sou só programador, bó joga. Alem disso estou no caminho de ser Designer grafico
+# 👋 Hello! Welcome to my Github profile.
+## My name is Leonardo alves and my nickname is "Frostizin"!
+
+
+
+- 🌱 Atualmente estou aprendendo Python, JavaScript
+- 👯 Estou procurando colaborar em Criação de bots pro discord.py e .js, criação de sites em html...
+- 🤔 Estou procurando ajuda com JavaScript, Python
+- 💬 Pergunte-me sobre Photoshop, Adobe Illustrator, Discord, HTML, CSS
+- 📫 Como entrar em contato comigo: No fim desse READ.ME, estará as formas de como se contatar comigo 
+- 😄 Pronomes: Ele / Dele
+- ⚡ Curiosidade: Nasci em Sp capital, tneho 14y
