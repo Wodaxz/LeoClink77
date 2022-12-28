@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.twitch.tv/frostk0101" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <div>
 <a href="https://github.com/LeoClink77">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&layout=compact&langs_count=7&theme=dracula"/>
