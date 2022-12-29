@@ -8,7 +8,7 @@
 - 💬 Pergunte-me sobre Photoshop, Adobe Illustrator, Discord, HTML, CSS
 - 📫 Como entrar em contato comigo: No fim desse README.md, estará as formas de como se contatar comigo 
 - 😄 Pronomes: Ele / Dele
-- ⚡ Curiosidade: Nasci em Sp capital, tenho 14 anos. Edito desde os meus 10 anos, e, programo desde os 13. Ainda estou estuddando sobre os dois mas amo css. É pouco mas é isso
+- ⚡ Curiosidade: Nasci em Sp capital, tenho 14 anos. Edito desde os meus 10 anos, e, programo desde os 13. Ainda estou estuddando sobre os dois mas amo css. É pouco mas é isso UwU
 
 ##
 <p align="center">
