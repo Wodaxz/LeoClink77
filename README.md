@@ -1,8 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Leonardo alves and my nickname is "Frostizin"!
 
-<img>C:\Users\leolo\Downloads\octocat-1672275098452.png<img/>
-
 - 🌱 Atualmente estou aprendendo Python, JavaScript
 - 👯 Estou procurando colaborar em Criação de bots pro discord.py e .js, criação de sites em html...
 - 🤔 Estou procurando ajuda com JavaScript, Python
@@ -30,3 +28,4 @@
 <a href="https://www.twitch.tv/frostk0101" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 </div> 
            
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
