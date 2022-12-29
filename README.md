@@ -9,6 +9,8 @@
 - 😄 Pronomes: Ele / Dele
 - ⚡ Curiosidade: Nasci em Sp capital, tenho 14 anos. Edito desde os meus 10 anos, e, programo desde os 13. Ainda estou estuddando sobre os dois mas amo css. É pouco mas é isso
 
+##
+
 <div>
 <a href="https://github.com/LeoClink77">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&layout=compact&langs_count=7&theme=dracula"/>
