@@ -1,14 +1,4 @@
 
-
-<p align="center">
-    <img src="https://img.shields.io/github/followers/LeoClink77?label=Follow&style=social" alt="github followers" /><br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dark" alt="LeoClink77" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&theme=dark" alt="LeoClink77" />
-</p>
-
-
-
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Leonardo alves and my nickname is "Frostizin"!
 
@@ -21,11 +11,11 @@
 - ⚡ Curiosidade: Nasci em Sp capital, tenho 14 anos. Edito desde os meus 10 anos, e, programo desde os 13. Ainda estou estuddando sobre os dois mas amo css. É pouco mas é isso
 
 ##
-<p align="center">   
-<div>
-<a href="https://github.com/LeoClink77">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
+<p align="center">
+    <img src="https://img.shields.io/github/followers/LeoClink77?label=Follow&style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dark" alt="LeoClink77" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&theme=dark" alt="LeoClink77" />
 </p>
 
 ## Ferramentas e Tecnologias
