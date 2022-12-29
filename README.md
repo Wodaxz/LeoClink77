@@ -25,6 +25,12 @@
           
 ##  Contatos 
 
+<hr>
+<p align="center">
+  <a target="_blank" href="https://discord.com/users/1046980244554383430"><img href="https://discord.com/users/1046980244554383430" src="https://lanyard.cnrad.dev/api/1046980244554383430?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage=Estou%20fazendo%20nada%20agora..." width="450px"></a>
+</p>
+<hr>            
+            
 <p align="center">       
 <a href="https://www.youtube.com/@Frostzink" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://github.com/LeoClink77?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=LeoClink77&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
