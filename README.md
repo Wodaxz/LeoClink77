@@ -1,3 +1,27 @@
+<p align="center">
+2
+    <img src="[https://media.discordapp.net/attachments/1046980244554383430/1040762710478032906/unknown.png](https://lanyard.cnrad.dev/api/1046980244554383430)" />
+3
+</p>
+4
+​
+5
+<p align="center">
+6
+    <img src="https://img.shields.io/github/followers/whoisdon?label=Follow&style=social" alt="github followers" /><br>
+7
+    <br>
+8
+    <img src="https://github-readme-stats.vercel.app/api?username=whoisdon&show_icons=true&theme=dark" alt="whoisdon" />
+9
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdon&theme=dark" alt="whoisdon" />
+10
+    
+11
+</p>
+
+
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Leonardo alves and my nickname is "Frostizin"!
 
