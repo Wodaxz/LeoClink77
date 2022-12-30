@@ -39,6 +39,7 @@
 <a href="https://www.youtube.com/@Frostzink" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://github.com/LeoClink77?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=LeoClink77&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
 <a href="https://instagram.com/el.leooo._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a target="_blank" href="https://twitter.com/lleeon_14"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.twitch.tv/frostk0101" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 </div> 
 </p>           
