@@ -1,6 +1,6 @@
 
 # 👋 Olá! Bem vindo ao meu Perfil do Github.
-## Meu nome é Leonardo alves e meu apelido é "Frostizin"!
+## Meu nome é Leonardo alves e meu apelido é "Frost"!
 
 - 🌱 Atualmente estou aprendendo Python, JavaScript
 - 👯 Estou procurando colaborar em Criação de bots pro discord.py e .js, criação de sites em html...
