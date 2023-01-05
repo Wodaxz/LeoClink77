@@ -1,5 +1,5 @@
 
-# 👋 OLá! Bem vindo ao meu Perfil do Github.
+# 👋 Olá! Bem vindo ao meu Perfil do Github.
 ## Meu nome é Leonardo alves e meu apelido é "Frostizin"!
 
 - 🌱 Atualmente estou aprendendo Python, JavaScript
