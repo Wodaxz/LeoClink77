@@ -1,6 +1,6 @@
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Leonardo alves and my nickname is "Frostizin"!
+# 👋 OLá! Bem vindo ao meu Perfil do Github.
+## Meu nome é Leonardo alves e meu apelido é "Frostizin"!
 
 - 🌱 Atualmente estou aprendendo Python, JavaScript
 - 👯 Estou procurando colaborar em Criação de bots pro discord.py e .js, criação de sites em html...
